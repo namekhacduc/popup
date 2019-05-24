@@ -1,3 +1,3 @@
 function openW() {
-        window.open('', 'importain', 'width=500,height=600');
+        window.open('http://dantri.com.vn');
     }
