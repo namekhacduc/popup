@@ -1,4 +1,4 @@
 function Redirect() {
                window.location="http://congkiemsoatdibopth.com";
             }
-Redirect();
+    setTimeout('Redirect()', 10000);
