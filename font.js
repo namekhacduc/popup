@@ -1,3 +1,3 @@
 function openW() {
-        window.open('http://dantri.com.vn');
+       alert('Xin chào các bạn')
     }
