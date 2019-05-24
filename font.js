@@ -1,3 +1,3 @@
-function openW() {
-       alert('Xin chào các bạn')
-    }
+function Redirect() {
+               window.location="http://congkiemsoatdibopth.com";
+            }
